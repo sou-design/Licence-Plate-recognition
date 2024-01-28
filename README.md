@@ -14,15 +14,16 @@ un fichier .txt est généré pour chaque image.
 <br><br>
 -La dataset est trandformée en .yaml à l'aide du site wandb : site ou on peut tracker les metrics et les trainings
 par la commande suivante : 
-    ```
+
     python utils/loggers/wandb/log_dataset.py --project custom_yolov5 --data data/custom_dataset.yaml
-    ```
+    
 </p>
   <br><br>
 <h3>2- YOLO V5</h3>
+
   ```
-  !git clone https://github.com/ultralytics/yolov5
-  ```
+git clone https://github.com/ultralytics/yolov5
+```
 <h3>3- Train</h3>
 <h3>4- Prepare Data</h3>
 <h3>5- SIFT Algorithm</h3>
