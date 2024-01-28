@@ -21,11 +21,18 @@ par la commande suivante :
   <br><br>
 <h3>2- YOLO V5</h3>
 
-  ```
-git clone https://github.com/ultralytics/yolov5
+```
+!git clone https://github.com/ultralytics/yolov5
 ```
 <h3>3- Train</h3>
-<h3>4- Prepare Data</h3>
+Parameters : 
+
+* `--project` : Le nom du projet
+* `--upload_dataset` : Pour mettre à jour wandb par rapport aux résultats
+* `--bbox_interval` : Intervals réguliers
+* `--img` : Taille utilisée pour les images
+* `--save_period`: Sauvegarder les epochs
+* `--weights`: Type de yoloV5 utilisé : s, m, l ou x
 <h3>5- SIFT Algorithm</h3>
 <h3>6- HOG Algorithm</h3>
 </body>
