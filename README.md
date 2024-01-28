@@ -33,9 +33,9 @@ Parameters :
 * `--img` : Taille utilisée pour les images
 * `--save_period`: Sauvegarder les epochs
 * `--weights`: Type de yoloV5 utilisé : s, m, l ou x
-<h3>5- SIFT Algorithm</h3>
-<img src=https://github.com/sou-design/Licence-Plate-recognition/assets/62157910/08d06464-a4f0-490e-a096-828a38c55d1b" width = 100>
+<h3>4- SIFT Algorithm</h3>
+<img src=https://github.com/sou-design/Licence-Plate-recognition/assets/62157910/08d06464-a4f0-490e-a096-828a38c55d1b" width = 400>
 
-
-<h3>6- HOG Algorithm</h3>
+<img src="https://github.com/sou-design/Licence-Plate-recognition/assets/62157910/83972a18-26d7-47f3-91c6-3b9831f010d8" width = 400>
+<h3>5- HOG Algorithm</h3>
 </body>
