@@ -34,7 +34,7 @@ Parameters :
 * `--save_period`: Sauvegarder les epochs
 * `--weights`: Type de yoloV5 utilisé : s, m, l ou x
 <h3>5- SIFT Algorithm</h3>
-![Capture d'écran 2024-01-28 143628](https://github.com/sou-design/Licence-Plate-recognition/assets/62157910/02925bad-7818-42b0-8318-641f36be6b77)
+https://github.com/sou-design/Licence-Plate-recognition/assets/62157910/02925bad-7818-42b0-8318-641f36be6b77
 
 <h3>6- HOG Algorithm</h3>
 </body>
